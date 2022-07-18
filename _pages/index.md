@@ -7,7 +7,7 @@ permalink: /
 # MiTio Project - Index
 ---
 ## Explanation:
-I am MiTio, the creator of the YouTube channel "MiTio".  Here I will be posting my progress on certain videos, which will give everyone interested a sneak peak or possibly a early-acess version of my next video. 
+I am Mitko (formally known as Dimitar), the creator of the YouTube channel "MiTio".  Here I will be posting my progress on certain videos, which will give everyone interested a sneak peak or possibly a early-acess version of my next video. 
 
 Im practising my note taking here so some notes may be in my native language, so start studying bulgarian, nerds
 
